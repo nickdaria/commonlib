@@ -5,3 +5,5 @@
 
 #define uS_TO_MS(us) ((us) / 1000)
 #define MS_TO_uS(ms) ((ms) * 1000)
+
+#define TIME_FLIP_FLOP(now, interval) ((now / interval) % 2)
