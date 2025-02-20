@@ -1,5 +1,5 @@
 #pragma once
 
-#include "common_bitwise.h"
-#include "common_arr.h"
-#include "common_time.h"
+#include "bitwise.h"
+#include "array.h"
+#include "timing.h"
